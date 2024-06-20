@@ -1,2 +1,2 @@
 let versionhandleconnected = true;
-let serverversion = "1.5.1";
+let serverversion = "1.5.2";
