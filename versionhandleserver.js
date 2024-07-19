@@ -1,2 +1,2 @@
 let versionhandleconnected = true;
-let serverversion = "1.5.2";
+let serverversion = "v2 Rocket";
